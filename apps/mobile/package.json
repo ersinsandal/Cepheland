@@ -1,0 +1,31 @@
+{
+  "name": "@cepheland/mobile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3002 --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview --port 3002",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@cepheland/contracts": "workspace:*",
+    "@cepheland/game-rules": "workspace:*",
+    "@cepheland/geo": "workspace:*",
+    "@cepheland/ui-tokens": "workspace:*",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@cepheland/config": "workspace:*",
+    "@types/leaflet": "^1.9.22",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "source": "infrastructure/maps/mahmutlar_raw.osm + parsed_highways.json",
+  "names": {
+    "f0000000-0000-0000-0000-000000000011": {
+      "frontId": "f0000000-0000-0000-0000-000000000011",
+      "baseName": "Merve nur · Barbaros Caddesi",
+      "streetName": "Barbaros Caddesi",
+      "source": "poi",
+      "osmIds": [
+        "node/11190701947",
+        "node/252135488",
+        "way/103195861",
+        "way/103195873",
+        "way/1057589164",
+        "way/1208482259",
+        "way/1531371441",
+        "way/1531371442",
+        "way/1531380994",
+        "way/37133313",
+        "way/373876506",
+        "way/373876513",
+        "way/998164439"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Merve nur · Barbaros Caddesi"
+    },
+    "f0000000-0000-0000-0000-000000000003": {
+      "frontId": "f0000000-0000-0000-0000-000000000003",
+      "baseName": "Saphore Restoran ve Bar · Menderes Bulvarı",
+      "streetName": "Menderes Bulvarı",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "node/6710410685",
+        "way/103195818",
+        "way/103195950",
+        "way/1208482259",
+        "way/1458526471",
+        "way/1458526472",
+        "way/1458526474",
+        "way/1531380994",
+        "way/26847686",
+        "way/37136419",
+        "way/373876513",
+        "way/569536793"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Saphore Restoran ve Bar · Menderes Bulvarı"
+    },
+    "f0000000-0000-0000-0000-000000000005": {
+      "frontId": "f0000000-0000-0000-0000-000000000005",
+      "baseName": "Senza Grand Santana · Sahil Caddesi",
+      "streetName": "Sahil Caddesi",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "way/103195986",
+        "way/1208482259",
+        "way/1458526471",
+        "way/1458526472",
+        "way/373876513",
+        "way/437579744",
+        "way/569536793",
+        "way/690764559"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Senza Grand Santana · Sahil Caddesi"
+    },
+    "f0000000-0000-0000-0000-000000000007": {
+      "frontId": "f0000000-0000-0000-0000-000000000007",
+      "baseName": "Mavi · 135 Nolu Sokak",
+      "streetName": "135 Nolu Sokak",
+      "source": "poi",
+      "osmIds": [
+        "node/11308129070",
+        "node/252135488",
+        "way/103195986",
+        "way/1208482259",
+        "way/1458526471",
+        "way/1458526472",
+        "way/37133319",
+        "way/373876513",
+        "way/437579744"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Mavi · 135 Nolu Sokak"
+    },
+    "f0000000-0000-0000-0000-000000000001": {
+      "frontId": "f0000000-0000-0000-0000-000000000001",
+      "baseName": "Ata's coffee · Barbaros Caddesi",
+      "streetName": "Barbaros Caddesi",
+      "source": "poi",
+      "osmIds": [
+        "node/11173638990",
+        "node/252135488",
+        "way/103195838",
+        "way/1531380994",
+        "way/373876513",
+        "way/77915439"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Ata's coffee · Barbaros Caddesi"
+    },
+    "f0000000-0000-0000-0000-000000000002": {
+      "frontId": "f0000000-0000-0000-0000-000000000002",
+      "baseName": "Old Dutch · 117 Sokak",
+      "streetName": "117 Sokak",
+      "source": "poi",
+      "osmIds": [
+        "node/11190701538",
+        "node/252135488",
+        "way/103195838",
+        "way/103195875",
+        "way/1208482259",
+        "way/1531380994",
+        "way/373876513",
+        "way/77915439"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Old Dutch · 117 Sokak"
+    },
+    "f0000000-0000-0000-0000-000000000006": {
+      "frontId": "f0000000-0000-0000-0000-000000000006",
+      "baseName": "LC Waikiki · 132 sokak",
+      "streetName": "132 sokak",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "node/6611743188",
+        "way/103195830",
+        "way/103195844",
+        "way/103195926",
+        "way/1208482259",
+        "way/373876513"
+      ],
+      "locality": "Mahmutlar",
+      "name": "LC Waikiki · 132 sokak"
+    },
+    "f0000000-0000-0000-0000-000000000008": {
+      "frontId": "f0000000-0000-0000-0000-000000000008",
+      "baseName": "Madame Coco · Barbaros Caddesi",
+      "streetName": "Barbaros Caddesi",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "node/4353938756",
+        "way/103195863",
+        "way/103195926",
+        "way/103195986",
+        "way/1056657291",
+        "way/1056657292",
+        "way/1208482259",
+        "way/373876513",
+        "way/437579744"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Madame Coco · Barbaros Caddesi"
+    },
+    "f0000000-0000-0000-0000-000000000004": {
+      "frontId": "f0000000-0000-0000-0000-000000000004",
+      "baseName": "Elite Life 3 · 117 Sokak",
+      "streetName": "117 Sokak",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "node/4871261422",
+        "way/103195838",
+        "way/103196038",
+        "way/331206918",
+        "way/77915439"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Elite Life 3 · 117 Sokak"
+    },
+    "f0000000-0000-0000-0000-000000000009": {
+      "frontId": "f0000000-0000-0000-0000-000000000009",
+      "baseName": "Atatürk Cd. / 119 No'lu Sokak",
+      "streetName": "Atatürk Cd.",
+      "source": "street",
+      "osmIds": [
+        "node/252135488",
+        "way/103196038",
+        "way/331206918",
+        "way/55414408",
+        "way/77915439"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Atatürk Cd. / 119 No'lu Sokak"
+    },
+    "f0000000-0000-0000-0000-000000000010": {
+      "frontId": "f0000000-0000-0000-0000-000000000010",
+      "baseName": "Atatürk Caddesi / Kılınçaslan Cd.",
+      "streetName": "Atatürk Caddesi",
+      "source": "street",
+      "osmIds": [
+        "node/252135488",
+        "way/103195827",
+        "way/103195840",
+        "way/103195850",
+        "way/103195881",
+        "way/103196046",
+        "way/37136420",
+        "way/55414408",
+        "way/569536792"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Atatürk Caddesi / Kılınçaslan Cd."
+    },
+    "f0000000-0000-0000-0000-000000000012": {
+      "frontId": "f0000000-0000-0000-0000-000000000012",
+      "baseName": "Saruhan Bisiklet Tamirhanesi · 136. Sk.",
+      "streetName": "136. Sk.",
+      "source": "poi",
+      "osmIds": [
+        "node/252135488",
+        "node/3959108292",
+        "way/103195844",
+        "way/103195868",
+        "way/103195904",
+        "way/103196046"
+      ],
+      "locality": "Mahmutlar",
+      "name": "Saruhan Bisiklet Tamirhanesi · 136. Sk."
+    }
+  }
+}

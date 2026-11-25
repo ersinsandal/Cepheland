@@ -1,0 +1,762 @@
+[
+  {
+    "code": "ALN-MHM-SAH-001",
+    "name": "Sahil Caddesi · Batı Kordonu",
+    "street": "Sahil Caddesi (D400)",
+    "weight": 2.5,
+    "teamSlug": "besiktas",
+    "status": "owned",
+    "areaM2": 56373,
+    "center": {
+      "latitude": 36.48968776111111,
+      "longitude": 32.09396699444444
+    },
+    "geometry": [
+      [
+        32.0931932,
+        36.4913447
+      ],
+      [
+        32.0932706,
+        36.4912763
+      ],
+      [
+        32.0939181,
+        36.4907039
+      ],
+      [
+        32.0939762,
+        36.4906464
+      ],
+      [
+        32.0941997,
+        36.490423
+      ],
+      [
+        32.0948985,
+        36.4897261
+      ],
+      [
+        32.0950161,
+        36.4896088
+      ],
+      [
+        32.0950423,
+        36.4895827
+      ],
+      [
+        32.0951216,
+        36.4895036
+      ],
+      [
+        32.0956001,
+        36.4890263
+      ],
+      [
+        32.0955335,
+        36.4889855
+      ],
+      [
+        32.0941243,
+        36.4881163
+      ],
+      [
+        32.094047,
+        36.4880865
+      ],
+      [
+        32.0935758,
+        36.4885566
+      ],
+      [
+        32.0930802,
+        36.4890681
+      ],
+      [
+        32.0925227,
+        36.4896477
+      ],
+      [
+        32.0924824,
+        36.4896792
+      ],
+      [
+        32.0918036,
+        36.490398
+      ],
+      [
+        32.0931932,
+        36.4913447
+      ]
+    ],
+    "surroundingStreets": [
+      "Barbaros Caddesi",
+      "Ahmet Yatmaz Caddesi",
+      "Empire Residence",
+      "Kumru Sokak",
+      "Tevfik Çatar Caddesi",
+      "Sahil Caddesi"
+    ]
+  },
+  {
+    "code": "ALN-MHM-KUM-003",
+    "name": "Kumru Sokak · Cephe 03 (Sahil & Meydan)",
+    "street": "Kumru Sokak",
+    "weight": 1.2,
+    "teamSlug": "galatasaray",
+    "status": "contested",
+    "areaM2": 25583,
+    "center": {
+      "latitude": 36.4862,
+      "longitude": 32.0952
+    },
+    "geometry": [
+      [
+        32.0951796,
+        36.48773
+      ],
+      [
+        32.0960935,
+        36.4883202
+      ],
+      [
+        32.0962119,
+        36.4883966
+      ],
+      [
+        32.0962509,
+        36.4883568
+      ],
+      [
+        32.0972642,
+        36.4873222
+      ],
+      [
+        32.0957293,
+        36.4863199
+      ],
+      [
+        32.0950814,
+        36.4870038
+      ],
+      [
+        32.0950483,
+        36.487077
+      ],
+      [
+        32.0950155,
+        36.4872225
+      ],
+      [
+        32.0950065,
+        36.4873461
+      ],
+      [
+        32.095015,
+        36.4874091
+      ],
+      [
+        32.095051,
+        36.4875488
+      ],
+      [
+        32.0951796,
+        36.48773
+      ]
+    ],
+    "surroundingStreets": [
+      "Menderes Bulvarı",
+      "Barbaros Caddesi",
+      "Yaya Yolu",
+      "127 Nolu Sokak",
+      "Sahil Caddesi"
+    ]
+  },
+  {
+    "code": "ALN-MHM-BAR-001",
+    "name": "Barbaros Caddesi · Sahil Çıkışı 01",
+    "street": "Barbaros Caddesi",
+    "weight": 5,
+    "teamSlug": "fenerbahce",
+    "status": "owned",
+    "areaM2": 54648,
+    "center": {
+      "latitude": 36.4854569125,
+      "longitude": 32.0975281875
+    },
+    "geometry": [
+      [
+        32.0994147,
+        36.4850521
+      ],
+      [
+        32.098028,
+        36.4840846
+      ],
+      [
+        32.0977979,
+        36.4842864
+      ],
+      [
+        32.0971699,
+        36.4848765
+      ],
+      [
+        32.0958347,
+        36.4862135
+      ],
+      [
+        32.0957293,
+        36.4863199
+      ],
+      [
+        32.0972642,
+        36.4873222
+      ],
+      [
+        32.0989868,
+        36.4855001
+      ],
+      [
+        32.0994147,
+        36.4850521
+      ]
+    ],
+    "surroundingStreets": [
+      "135 Nolu Sokak",
+      "Barbaros Caddesi",
+      "Sahil Caddesi",
+      "127 Nolu Sokak"
+    ]
+  },
+  {
+    "code": "ALN-MHM-BAR-003",
+    "name": "Barbaros Caddesi · Doğu Sahil 03",
+    "street": "Barbaros Caddesi",
+    "weight": 5,
+    "teamSlug": null,
+    "status": "neutral",
+    "areaM2": 19534,
+    "center": {
+      "latitude": 36.48386943333334,
+      "longitude": 32.09949946666667
+    },
+    "geometry": [
+      [
+        32.1003538,
+        36.4841616
+      ],
+      [
+        32.1002415,
+        36.4840681
+      ],
+      [
+        32.0998818,
+        36.483818
+      ],
+      [
+        32.0996625,
+        36.4836566
+      ],
+      [
+        32.0995571,
+        36.4835791
+      ],
+      [
+        32.0991797,
+        36.4833064
+      ],
+      [
+        32.099041,
+        36.4832197
+      ],
+      [
+        32.0980979,
+        36.484027
+      ],
+      [
+        32.0994799,
+        36.4849884
+      ],
+      [
+        32.1003538,
+        36.4841616
+      ]
+    ],
+    "surroundingStreets": [
+      "201 Nolu Sokak",
+      "Barbaros Caddesi",
+      "Sahil Caddesi",
+      "135 Nolu Sokak"
+    ]
+  },
+  {
+    "code": "ALN-MHM-KUM-001",
+    "name": "Kumru Sokak · Batı Çarşı 01",
+    "street": "Kumru Sokak",
+    "weight": 1.2,
+    "teamSlug": "galatasaray",
+    "status": "owned",
+    "areaM2": 13020,
+    "center": {
+      "latitude": 36.4905077125,
+      "longitude": 32.094815
+    },
+    "geometry": [
+      [
+        32.0958192,
+        36.4901288
+      ],
+      [
+        32.0951322,
+        36.4896434
+      ],
+      [
+        32.094263,
+        36.4904667
+      ],
+      [
+        32.0940315,
+        36.490686
+      ],
+      [
+        32.0939618,
+        36.490752
+      ],
+      [
+        32.0946331,
+        36.4912206
+      ],
+      [
+        32.0951919,
+        36.4907173
+      ],
+      [
+        32.0954873,
+        36.4904469
+      ],
+      [
+        32.0958192,
+        36.4901288
+      ]
+    ],
+    "surroundingStreets": [
+      "Kumru Sokak",
+      "117 Sokak",
+      "Barbaros Caddesi"
+    ]
+  },
+  {
+    "code": "ALN-MHM-KUM-002",
+    "name": "Kumru Sokak · Doğu Konutları 02",
+    "street": "Kumru Sokak",
+    "weight": 1.2,
+    "teamSlug": "galatasaray",
+    "status": "owned",
+    "areaM2": 9072,
+    "center": {
+      "latitude": 36.48945082857143,
+      "longitude": 32.09593278571428
+    },
+    "geometry": [
+      [
+        32.0958192,
+        36.4901288
+      ],
+      [
+        32.0965719,
+        36.4893877
+      ],
+      [
+        32.0965406,
+        36.4893362
+      ],
+      [
+        32.0964042,
+        36.4892296
+      ],
+      [
+        32.0958537,
+        36.4888679
+      ],
+      [
+        32.0952077,
+        36.4895622
+      ],
+      [
+        32.0951322,
+        36.4896434
+      ],
+      [
+        32.0958192,
+        36.4901288
+      ]
+    ],
+    "surroundingStreets": [
+      "Kumru Sokak",
+      "117 Sokak",
+      "123 Nolu Sokak",
+      "Barbaros Caddesi"
+    ]
+  },
+  {
+    "code": "ALN-MHM-BAR-002",
+    "name": "Barbaros Caddesi · Çarşı Merkezi 02",
+    "street": "Barbaros Caddesi",
+    "weight": 5,
+    "teamSlug": "fenerbahce",
+    "status": "owned",
+    "areaM2": 12474,
+    "center": {
+      "latitude": 36.4869243,
+      "longitude": 32.098405825
+    },
+    "geometry": [
+      [
+        32.0992793,
+        36.486692
+      ],
+      [
+        32.0984803,
+        36.4861761
+      ],
+      [
+        32.0975402,
+        36.4871588
+      ],
+      [
+        32.0983235,
+        36.4876703
+      ],
+      [
+        32.0992793,
+        36.486692
+      ]
+    ],
+    "surroundingStreets": [
+      "132 sokak",
+      "Meydan Caddesi",
+      "204. Sokak",
+      "Barbaros Caddesi",
+      "128 Nolu Sokak"
+    ]
+  },
+  {
+    "code": "ALN-MHM-BAR-004",
+    "name": "Barbaros Caddesi · Doğu Çarşı 04",
+    "street": "Barbaros Caddesi",
+    "weight": 5,
+    "teamSlug": "fenerbahce",
+    "status": "owned",
+    "areaM2": 13448,
+    "center": {
+      "latitude": 36.485920085714284,
+      "longitude": 32.099624657142854
+    },
+    "geometry": [
+      [
+        32.0992793,
+        36.486692
+      ],
+      [
+        32.0997931,
+        36.4861538
+      ],
+      [
+        32.0998838,
+        36.4860588
+      ],
+      [
+        32.1002167,
+        36.4856453
+      ],
+      [
+        32.1002342,
+        36.485611
+      ],
+      [
+        32.0994852,
+        36.4851036
+      ],
+      [
+        32.0984803,
+        36.4861761
+      ],
+      [
+        32.0992793,
+        36.486692
+      ]
+    ],
+    "surroundingStreets": [
+      "132 sokak",
+      "Meydan Caddesi",
+      "204. Sokak",
+      "135 Nolu Sokak",
+      "Barbaros Caddesi"
+    ]
+  },
+  {
+    "code": "ALN-MHM-KUM-004",
+    "name": "Kumru Sokak · Üst Bulvar 04",
+    "street": "Kumru Sokak",
+    "weight": 1.2,
+    "teamSlug": "besiktas",
+    "status": "owned",
+    "areaM2": 32514,
+    "center": {
+      "latitude": 36.4910357625,
+      "longitude": 32.0956717875
+    },
+    "geometry": [
+      [
+        32.0972255,
+        36.4911452
+      ],
+      [
+        32.0966769,
+        36.4907487
+      ],
+      [
+        32.0958192,
+        36.4901288
+      ],
+      [
+        32.0954873,
+        36.4904469
+      ],
+      [
+        32.0951919,
+        36.4907173
+      ],
+      [
+        32.0946331,
+        36.4912206
+      ],
+      [
+        32.0943876,
+        36.4914313
+      ],
+      [
+        32.0959528,
+        36.4924473
+      ],
+      [
+        32.0972255,
+        36.4911452
+      ]
+    ],
+    "surroundingStreets": [
+      "Kumru Sokak",
+      "119 No'lu Sokak",
+      "117 Sokak",
+      "Hatipler Sokak"
+    ]
+  },
+  {
+    "code": "ALN-MHM-ATA-001",
+    "name": "Atatürk Caddesi · Bulvar Cephesi 01",
+    "street": "Atatürk Caddesi",
+    "weight": 2.5,
+    "teamSlug": "fenerbahce",
+    "status": "owned",
+    "areaM2": 14841,
+    "center": {
+      "latitude": 36.4920251,
+      "longitude": 32.09693925
+    },
+    "geometry": [
+      [
+        32.0979262,
+        36.4915918
+      ],
+      [
+        32.0972255,
+        36.4911452
+      ],
+      [
+        32.0959528,
+        36.4924473
+      ],
+      [
+        32.0966525,
+        36.4929161
+      ],
+      [
+        32.0979262,
+        36.4915918
+      ]
+    ],
+    "surroundingStreets": [
+      "Atatürk Cd.",
+      "Kumru Sokak",
+      "Atatürk Caddesi",
+      "Kılınçaslan Cd.",
+      "119 No'lu Sokak",
+      "Hatipler Sokak"
+    ]
+  },
+  {
+    "code": "ALN-MHM-ATA-002",
+    "name": "Atatürk Caddesi · Bulvar Cephesi 02",
+    "street": "Atatürk Caddesi",
+    "weight": 2.5,
+    "teamSlug": "fenerbahce",
+    "status": "protected",
+    "areaM2": 13983,
+    "center": {
+      "latitude": 36.49119899166667,
+      "longitude": 32.09900021666667
+    },
+    "geometry": [
+      [
+        32.0979262,
+        36.4915918
+      ],
+      [
+        32.0983562,
+        36.4918914
+      ],
+      [
+        32.0987107,
+        36.4921254
+      ],
+      [
+        32.0987779,
+        36.4920113
+      ],
+      [
+        32.0993138,
+        36.4913998
+      ],
+      [
+        32.0997584,
+        36.4909577
+      ],
+      [
+        32.0998908,
+        36.4908405
+      ],
+      [
+        32.0995829,
+        36.4906793
+      ],
+      [
+        32.0992361,
+        36.4905279
+      ],
+      [
+        32.0991991,
+        36.4905279
+      ],
+      [
+        32.0987645,
+        36.4908095
+      ],
+      [
+        32.098486,
+        36.4910254
+      ],
+      [
+        32.0979262,
+        36.4915918
+      ]
+    ],
+    "surroundingStreets": [
+      "Atatürk Cd.",
+      "Kumru Sokak",
+      "Atatürk Caddesi",
+      "Kılınçaslan Cd.",
+      "136. Sk."
+    ]
+  },
+  {
+    "code": "ALN-MHM-VAT-001",
+    "name": "128. Sokak · Meydan & Park Cephesi",
+    "street": "128 Nolu Sokak",
+    "weight": 1,
+    "teamSlug": null,
+    "status": "neutral",
+    "areaM2": 14346,
+    "center": {
+      "latitude": 36.48838593125001,
+      "longitude": 32.101471781250005
+    },
+    "geometry": [
+      [
+        32.1004118,
+        36.4889766
+      ],
+      [
+        32.1003063,
+        36.4890856
+      ],
+      [
+        32.1003573,
+        36.4891125
+      ],
+      [
+        32.1010663,
+        36.4895409
+      ],
+      [
+        32.1021278,
+        36.4884069
+      ],
+      [
+        32.1021462,
+        36.4883404
+      ],
+      [
+        32.1021134,
+        36.4882914
+      ],
+      [
+        32.1020264,
+        36.4882463
+      ],
+      [
+        32.1020053,
+        36.4881786
+      ],
+      [
+        32.1020217,
+        36.4881315
+      ],
+      [
+        32.1018378,
+        36.488072
+      ],
+      [
+        32.1015937,
+        36.488007
+      ],
+      [
+        32.1014505,
+        36.4879718
+      ],
+      [
+        32.1014093,
+        36.4879503
+      ],
+      [
+        32.1013487,
+        36.4879187
+      ],
+      [
+        32.101326,
+        36.4879444
+      ],
+      [
+        32.1004118,
+        36.4889766
+      ]
+    ],
+    "surroundingStreets": [
+      "128 Nolu Sokak",
+      "Atatürk Caddesi",
+      "136. Sk.",
+      "Kervansaray Caddesi",
+      "Meydan Caddesi"
+    ]
+  }
+]

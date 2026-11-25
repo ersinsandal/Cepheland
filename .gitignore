@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / dependencies
+node_modules
+dist
+build
+.turbo
+.next
+out
+
+# Environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Mobile build
+.expo
+android/app/build
+ios/Pods
+
+# Test coverage
+coverage
+.nyc_output
+
+# Temporary database files
+*.sqlite
+*.sqlite3
+pgdata
+redisdata
+miniodata
+scratch/
+
+# Local handover notes and machine-specific tooling
+/CEPHELAND_HANDOVER_DOSSIER.md
+.codex/
+.agents/
+.aws/
+*.tsbuildinfo

@@ -1,0 +1,155 @@
+{
+  "preparedAt": "2026-11-25T12:26:54.531Z",
+  "regions": [
+    "mahmutlar",
+    "moda",
+    "konya",
+    "ankara"
+  ],
+  "tiles": [
+    {
+      "key": "osm-v1-10604-6324",
+      "bbox": {
+        "minLat": 36.48,
+        "maxLat": 36.5,
+        "minLng": 32.08,
+        "maxLng": 32.1
+      },
+      "roads": 313,
+      "parcels": 239,
+      "elapsedMs": 187
+    },
+    {
+      "key": "osm-v1-10605-6324",
+      "bbox": {
+        "minLat": 36.48,
+        "maxLat": 36.5,
+        "minLng": 32.1,
+        "maxLng": 32.12
+      },
+      "roads": 498,
+      "parcels": 218,
+      "elapsedMs": 188
+    },
+    {
+      "key": "osm-v1-10450-6548",
+      "bbox": {
+        "minLat": 40.96,
+        "maxLat": 40.98,
+        "minLng": 29,
+        "maxLng": 29.02
+      },
+      "roads": 105,
+      "parcels": 0,
+      "elapsedMs": 11
+    },
+    {
+      "key": "osm-v1-10451-6548",
+      "bbox": {
+        "minLat": 40.96,
+        "maxLat": 40.98,
+        "minLng": 29.02,
+        "maxLng": 29.04
+      },
+      "roads": 712,
+      "parcels": 198,
+      "elapsedMs": 415
+    },
+    {
+      "key": "osm-v1-10450-6549",
+      "bbox": {
+        "minLat": 40.98,
+        "maxLat": 41,
+        "minLng": 29,
+        "maxLng": 29.02
+      },
+      "roads": 585,
+      "parcels": 58,
+      "elapsedMs": 152
+    },
+    {
+      "key": "osm-v1-10451-6549",
+      "bbox": {
+        "minLat": 40.98,
+        "maxLat": 41,
+        "minLng": 29.02,
+        "maxLng": 29.04
+      },
+      "roads": 2603,
+      "parcels": 979,
+      "elapsedMs": 310
+    },
+    {
+      "key": "osm-v1-10624-6393",
+      "bbox": {
+        "minLat": 37.86,
+        "maxLat": 37.88,
+        "minLng": 32.48,
+        "maxLng": 32.5
+      },
+      "roads": 1716,
+      "parcels": 736,
+      "elapsedMs": 722
+    },
+    {
+      "key": "osm-v1-10625-6393",
+      "bbox": {
+        "minLat": 37.86,
+        "maxLat": 37.88,
+        "minLng": 32.5,
+        "maxLng": 32.52
+      },
+      "roads": 1381,
+      "parcels": 577,
+      "elapsedMs": 506
+    },
+    {
+      "key": "osm-v1-10642-6495",
+      "bbox": {
+        "minLat": 39.9,
+        "maxLat": 39.92,
+        "minLng": 32.84,
+        "maxLng": 32.86
+      },
+      "roads": 1595,
+      "parcels": 381,
+      "elapsedMs": 463
+    },
+    {
+      "key": "osm-v1-10643-6495",
+      "bbox": {
+        "minLat": 39.9,
+        "maxLat": 39.92,
+        "minLng": 32.86,
+        "maxLng": 32.88
+      },
+      "roads": 1129,
+      "parcels": 352,
+      "elapsedMs": 398
+    },
+    {
+      "key": "osm-v1-10642-6496",
+      "bbox": {
+        "minLat": 39.92,
+        "maxLat": 39.94,
+        "minLng": 32.84,
+        "maxLng": 32.86
+      },
+      "roads": 2550,
+      "parcels": 553,
+      "elapsedMs": 1709
+    },
+    {
+      "key": "osm-v1-10643-6496",
+      "bbox": {
+        "minLat": 39.92,
+        "maxLat": 39.94,
+        "minLng": 32.86,
+        "maxLng": 32.88
+      },
+      "roads": 1866,
+      "parcels": 555,
+      "elapsedMs": 1215
+    }
+  ]
+}

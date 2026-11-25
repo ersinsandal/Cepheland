@@ -1,0 +1,24 @@
+{
+  "name": "@cepheland/worker",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@cepheland/contracts": "workspace:*",
+    "@cepheland/game-rules": "workspace:*",
+    "@cepheland/geo": "workspace:*",
+    "dotenv": "^16.4.7",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@cepheland/config": "workspace:*",
+    "@types/pg": "^8.11.11",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@cepheland/geo",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cepheland/config": "workspace:*",
+    "@types/geojson": "^7946.0.16",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  },
+  "dependencies": {
+    "@turf/turf": "7.4.0",
+    "is-sea": "^0.3.1"
+  }
+}

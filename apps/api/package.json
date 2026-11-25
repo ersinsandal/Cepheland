@@ -1,0 +1,42 @@
+{
+  "name": "@cepheland/api",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "maps:prepare": "tsx src/scripts/prepare-maps.ts",
+    "test:integration": "vitest run test/integration"
+  },
+  "dependencies": {
+    "@cepheland/contracts": "workspace:*",
+    "@cepheland/game-rules": "workspace:*",
+    "@cepheland/geo": "workspace:*",
+    "@cepheland/ui-tokens": "workspace:*",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "osmtogeojson": "3.0.0-beta.5",
+    "pg": "^8.13.1",
+    "ws": "^8.18.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@cepheland/config": "workspace:*",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/geojson": "^7946.0.16",
+    "@types/jsonwebtoken": "^9.0.8",
+    "@types/osmtogeojson": "^2.2.34",
+    "@types/pg": "^8.11.11",
+    "@types/supertest": "^6.0.2",
+    "@types/ws": "^8.5.14",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}

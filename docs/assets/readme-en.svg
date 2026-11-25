@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="34" viewBox="0 0 222 34" role="img" aria-label="Read the English documentation">
+  <rect width="222" height="34" rx="6" fill="#171f24"/>
+  <rect x=".5" y=".5" width="221" height="33" rx="5.5" fill="none" stroke="#405057"/>
+  <text x="111" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#e6b55c">Read the English documentation</text>
+</svg>
