@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="packages/ui-tokens/assets/icon.png" width="160" height="160" alt="Cepheland logo">
+</p>
+
 [![Türkçe dokümanı okumak için tıklayın](docs/assets/readme-tr.svg)](README.tr.md)
 
 # Cepheland

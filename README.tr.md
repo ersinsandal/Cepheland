@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="packages/ui-tokens/assets/icon.png" width="160" height="160" alt="Cepheland logosu">
+</p>
+
 # Cepheland
 
 [![Read the English documentation](docs/assets/readme-en.svg)](README.md)
