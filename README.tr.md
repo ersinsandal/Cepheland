@@ -1,12 +1,25 @@
 <p align="center">
-  <img src="packages/ui-tokens/assets/icon.png" width="160" height="160" alt="Cepheland logosu">
+  <img src="packages/ui-tokens/assets/icon.png" width="88" height="88" alt="Cepheland logosu">
 </p>
 
-# Cepheland
+<h1 align="center">Cepheland</h1>
 
-[![Read the English documentation](docs/assets/readme-en.svg)](README.md)
+<p align="center">
+  <strong>Tarafını seç. Cepheni kazan.</strong><br>
+  Gerçek sokaklar ve takım rekabeti üzerine kurulu bir bölge kontrol oyunu.
+</p>
 
-**Tarafını seç. Cepheni kazan.**
+<p align="center">
+  <a href="#kurulum">Kurulum</a> &nbsp;·&nbsp;
+  <a href="#mimari-ve-depo-düzeni">Mimari</a> &nbsp;·&nbsp;
+  <a href="#api-ile-çalışma">API rehberi</a>
+</p>
+
+<p align="center">
+  <a href="README.md" title="Read the English documentation"><img src="docs/assets/readme-en.svg" width="176" height="26" alt="English documentation"></a>
+</p>
+
+## Genel bakış
 
 Cepheland, gerçek şehir haritalarındaki sanal bölgelerin kontrolü için takımların yarıştığı, konum temelli bir strateji oyununun geliştirme deposudur. Oyuncular bir lige ve o ligin sezonundaki bir takıma katılır; sokakların çevrelediği cepheleri keşfeder, çatışmalara katkı verir ve takımının haritadaki durumunu takip eder.
 

@@ -1,12 +1,25 @@
 <p align="center">
-  <img src="packages/ui-tokens/assets/icon.png" width="160" height="160" alt="Cepheland logo">
+  <img src="packages/ui-tokens/assets/icon.png" width="88" height="88" alt="Cepheland logo">
 </p>
 
-[![Türkçe dokümanı okumak için tıklayın](docs/assets/readme-tr.svg)](README.tr.md)
+<h1 align="center">Cepheland</h1>
 
-# Cepheland
+<p align="center">
+  <strong>Choose your side. Claim your front.</strong><br>
+  A territory strategy game built around real streets and team competition.
+</p>
 
-**Choose your side. Claim your front.**
+<p align="center">
+  <a href="#getting-started">Getting started</a> &nbsp;·&nbsp;
+  <a href="#architecture">Architecture</a> &nbsp;·&nbsp;
+  <a href="#working-with-the-api">API reference</a>
+</p>
+
+<p align="center">
+  <a href="README.tr.md" title="Türkçe dokümanı okumak için tıklayın"><img src="docs/assets/readme-tr.svg" width="176" height="26" alt="Türkçe dokümantasyon"></a>
+</p>
+
+## Overview
 
 Cepheland is a location-based territory strategy game built around real city streets. Players join a team within a league, explore a shared map, contribute to conflicts and compete for control of small geographic areas called **fronts**. Each season keeps its own team membership, territory state and rankings.
 
